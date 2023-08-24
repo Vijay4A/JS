@@ -1,0 +1,3 @@
+let $ = "Hello World";
+let $$$ = 2;
+let $myMoney = 5;
