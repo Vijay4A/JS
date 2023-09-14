@@ -1,0 +1,18 @@
+let text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+let length = text.length;
+
+let str = "Apple, Banana, Kiwi";
+let part = str.substring(7, 13);
+
+let str = "Apple, Banana, Kiwi";
+let part = str.substr(7);
+
+let str = "Apple, Banana, Kiwi";
+let part = str.substr(-4);
+
+let text = "Please visit Microsoft!";
+let newText = text.replace(/MICROSOFT/i, "W3Schools");
+
+let text1 = "Hello";
+let text2 = "World";
+let text3 = text1.concat(" ", text2);
