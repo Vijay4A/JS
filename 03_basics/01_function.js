@@ -59,7 +59,7 @@ function  calculateCartPrice(a,b,...num1){
 const  myNewArray= [100,200,300,400]
 
 function returnSecond(getArray){
-    return getArray[1]
+    return getArray[2]
 
 }
 // console.log(returnSecond(myNewArray));
